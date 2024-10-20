@@ -1,0 +1,32 @@
+# Node.js modules
+node_modules/
+
+# Logs
+
+# Environment variables
+.env
+
+# Build and output directories
+dist/
+build/
+out/
+
+# Temporary files
+*.tmp
+*.swp
+*.bak
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Coverage and test result directories
+coverage/
+*.lcov
+
+# System files
+*.lock
